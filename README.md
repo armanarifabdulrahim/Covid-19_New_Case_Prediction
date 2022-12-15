@@ -23,7 +23,7 @@ These are steps used to complete this project.
     
 #### 4. Data Cleaning
     - Filled null values 
-![img](Resources/Cleaned.png)
+<p align="center"><img src = "Resources/Cleaned.png"></p>
     
 #### 5. Data Preprocessing
     - Used Min Max Scaler to normalize data
@@ -42,13 +42,15 @@ These are steps used to complete this project.
 ## Results
 
     - The model are able predict the COVID-19 trend.
-![img](Resources/output.png)
+<p align="center"><img src="Resources/output.png"></p>
  
     - The Mean Absolute Percentage Error (MAPE) is around 0.167%. This model did a great job of predicting COVID-19 spread trend.   
-![img](Resources/MAPE2.PNG)
+
+<p align="center"><img src = "Resources/MAPE2.PNG"></p>
 
     - Tensorboard graph shows no overfitting or underfitting
-![img](Resources/tb_loss.PNG)
+
+<p align="center"><img src = "Resources/tb_loss.PNG"></p>
 
 
 ## Acknowledgement
